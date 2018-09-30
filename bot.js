@@ -2249,4 +2249,4 @@ if (message.content.startsWith(prefix + 'نقاطي')) {
 
 
 
-client.login(process.env.BOT_TOKEN)
+client.login ('NDk1OTQxODM4MjUyMDE1NjE2.DpJZfg.wUiNEtdmeHanoWvJTlbS9MdpK9g')
